@@ -1,6 +1,6 @@
 # 🧭 Polarized PDFs Analysis
 
-This repository hosts the codebase and resources for a global QCD analysis of **polarized parton distribution functions (PDFs)** using data from:
+This repository hosts the codebase and resources for a global QCD analysis of **polarized parton distribution functions (PDFs)** at NLO accuracy using data from:
 
 - 🧪 Polarized Deep Inelastic Scattering (DIS)
 - 🌀 Semi-Inclusive DIS (SIDIS)
